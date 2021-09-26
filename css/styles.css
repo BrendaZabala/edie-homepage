@@ -215,7 +215,7 @@ section#home {
     color: var(--gray-6);
     right: 0;
     margin-top: 24px;
-    margin-right: 13vw;
+    right: 11.6vw;
     cursor: pointer;
 }
 
@@ -232,6 +232,7 @@ section#home {
     color: var(--gray-1);
     margin-left: 7vw;
     margin-bottom: 5vh;
+    width: min(269px,75vw);
 }
 
 #services .container-boxes {
@@ -526,7 +527,7 @@ section#home {
     color: var(--gray-6);
     right: 0;
     margin-top: 25px;
-    margin-right: 10vw;
+    right: 9.3vw;
     cursor: pointer;
 }
 
@@ -636,9 +637,7 @@ footer small a {
     }
 
     #home .card-form form input[type="submit"] {
-        margin: 0;                 
-        bottom: 0.3rem;
-        right: 1.4rem;
+        right: 1.7vw;
     }
 
     /** section services **/
@@ -763,7 +762,6 @@ footer small a {
 
     #clients #quote {
         font-size: 36px;
-        /*width: 885px;*/
         width: min(885px, 76vw);
         margin-top: 60px;
     }
@@ -801,7 +799,8 @@ footer small a {
     }
 
     #contact .container-contact #form input[type="submit"] {
-        right: 0.4rem;
+        right: 0.3vw;
+        margin-right: 10vw;
     }
 
 
