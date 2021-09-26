@@ -23,7 +23,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/BrendaZabala/edie-homepage/blob/master/screenshots/screenshot-edie-homepage-laptop.png?raw=true)
+![screenshot](https://github.com/BrendaZabala/edie-homepage/blob/master/screenshots/screenshot-edie-homepage-laptop.jpg?raw=true)
 
 ### Built With
 
